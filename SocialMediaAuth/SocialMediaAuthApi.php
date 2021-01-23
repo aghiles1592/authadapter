@@ -1,3 +1,5 @@
+<?php
+
 class SocialMediaAuthApi {
 
 private $auth;
